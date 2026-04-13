@@ -1,0 +1,29 @@
+# Unity generated
+Seesaw/Library/
+Seesaw/Temp/
+Seesaw/Logs/
+Seesaw/obj/
+Seesaw/Build/
+Seesaw/Builds/
+Seesaw/MemoryCaptures/
+Seesaw/UserSettings/
+
+# Built application
+Seesaw/Seesaw.app/
+
+# IDE
+Seesaw/.vscode/
+.idea/
+*.csproj
+*.sln
+
+# Unity crash logs
+Seesaw/mono_crash.*.json
+
+# OS files
+.DS_Store
+
+# Python
+Analysis/__pycache__/
+Analysis/.ipynb_checkpoints/
+*.pyc

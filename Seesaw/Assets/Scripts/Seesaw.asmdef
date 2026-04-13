@@ -1,0 +1,18 @@
+{
+    "name": "Seesaw",
+    "rootNamespace": "",
+    "references": [
+        "labstreaminglayer.LSL4Unity.Runtime",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
